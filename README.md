@@ -24,6 +24,7 @@
 Установите зависимости через pip:
 ```bash
 pip install tensorflow keras albumentations opendatasets numpy pandas matplotlib
+```
 
 ## 📂 Данные
 
@@ -33,6 +34,7 @@ pip install tensorflow keras albumentations opendatasets numpy pandas matplotlib
 ```python
 import opendatasets as od
 od.download("https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database/")
+```
 
 ## Структура
 
